@@ -12,7 +12,7 @@ namespace Tyuiu.SmirnovMN.Sprint3.Task0.V22
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #3 | Выполнил: Брюхов А. А. | ИИПБ-23-2";
+            Console.Title = "Спринт #3 | Выполнил: Смирнов М. Н. | ИИПБ-23-2";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #3                                                              *");
             Console.WriteLine("* Тема: Оператор цикла for                                               *");
