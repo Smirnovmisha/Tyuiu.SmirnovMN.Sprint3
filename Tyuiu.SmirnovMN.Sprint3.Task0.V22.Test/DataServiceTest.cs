@@ -16,6 +16,7 @@ namespace Tyuiu.SmirnovMN.Sprint3.Task0.V22.Test
             int starValue = 1;
             int stopValue = 8;
 
+
             double res = ds.GetSumSeries(value, starValue, stopValue);
 
             double wait = 31.328;
