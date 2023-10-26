@@ -19,6 +19,7 @@ namespace Tyuiu.SmirnovMN.Sprint3.Task0.V22.Lib
                 sumSeries = sumSeries + ((Math.Pow(value, i) + 4) * Math.Cos(value));
             }
             return Math.Round(sumSeries, 3);
+
         }
     }
 }
